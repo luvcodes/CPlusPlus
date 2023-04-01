@@ -36,7 +36,7 @@ This is more like a learning purpose repository usage, while noticed that the im
     - 转移序列
     - signed char和unsigned char。unsigned char类型的表示范围通常为0～255，而signed char 的表示范围为−128到127
     - wcha_t 宽字符类型
-    - C++11新增的类型：char16_t和char32_t
+    - **给char型变量输入数字时，相当于char型已经变成了Int类型** 并且 **char型变量 只能和int型变量在有限范围内共通**
   - 3.1.9 bool类型
     - 字面值true和false都可以通过提升转换为int类型，true被转换为1， 而false被转换为0
 - 3.2 const限定符
@@ -56,7 +56,12 @@ This is more like a learning purpose repository usage, while noticed that the im
     - 有效位数不依赖于小数点的位置。14.162千英尺，这样仍有5个有效位，因为这个值精确到了第5位。
     - C和C++对于有效位数的要求是，float为32位，double为64位， long double为80、96或128位
   - 3.3.3 浮点常量
+  - **float保留6位有效位 double保留15位有效位**
 - 3.4 C++算术运算符
-  - 
+  - 5种基本运算符 `+ - * / %`
+  - 3.4.2 除法分支 
+    - **除法运算符（/）的行为取决于操作数的类型**
+    - 如果两个操作数都是整数，则C++将执行整数除法。这意味着结果的小数部分将被丢弃，使得最后的结果是一个整数。如果其中有一个（或两个）操作数是浮点 值，则小数部分将保留，结果为浮点数。
+  - 3.4.4 类型转换
 
 #### 位运算符
