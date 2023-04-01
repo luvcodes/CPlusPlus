@@ -1,3 +1,3 @@
-C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter2/cmake-build-debug/CMakeFiles/Chapter2.dir
-C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter2/cmake-build-debug/CMakeFiles/Chapter2.dir
+/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
