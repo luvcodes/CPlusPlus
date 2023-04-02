@@ -417,6 +417,30 @@ Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/address.cp
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/address.cpp.s
 .PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/address.cpp.s
 
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/pointer.o: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/pointer.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/pointer.o
+
+# target to build an object file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/pointer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/pointer.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/pointer.cpp.o
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/pointer.i: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/pointer.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/pointer.i
+
+# target to preprocess a source file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/pointer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/pointer.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/pointer.cpp.i
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/pointer.s: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/pointer.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/pointer.s
+
+# target to generate assembly for a file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/pointer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/pointer.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/pointer.cpp.s
+
 Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.o: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.cpp.o
 .PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.o
 
@@ -774,6 +798,9 @@ help:
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/address.o"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/address.i"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/address.s"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/pointer.o"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/pointer.i"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/pointer.s"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.o"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.i"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.s"
