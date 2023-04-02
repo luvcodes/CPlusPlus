@@ -57,5 +57,11 @@ This is more like a learning purpose repository usage, while noticed that the im
   - 共用体常用于（但并非只能用于）节省内存
   - 共用体常用于操作系统数据结构或硬件数据结构
 - 4.6 枚举
+  - 4.6.1 设置枚举量的值 
+    - 可以使用赋值运算符来显式地设置枚举量的值。**指定的值必须是整数**
+    - 也可以只显式地定义其中一些枚举量的值。`enum bigstep{first, second = 100, third}` first默认值是0，**后面没有被初始化的枚举量的值将比其前面的枚举量大1** third = 101
+    - 也可以创建多个值相同的枚举量。`enum {zero, null = 0, one, numero_uno = 1}` zero, null = 0, one, numero_uno = 1
+    - **枚举的取值范围** 见page 224
+- 4.7 指针
   - 
 #### 位运算符
