@@ -65,7 +65,10 @@
 				10,
 				11,
 				12,
-				13
+				13,
+				14,
+				15,
+				16
 			]
 		}
 	],
@@ -111,7 +114,10 @@
 				10,
 				11,
 				12,
-				13
+				13,
+				14,
+				15,
+				16
 			]
 		}
 	],
@@ -199,6 +205,24 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/Strings/instr1.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/Strings/instr2.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/Strings/instr3.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/Strings/numstr.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
