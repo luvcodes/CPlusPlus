@@ -68,7 +68,11 @@
 				13,
 				14,
 				15,
-				16
+				16,
+				17,
+				18,
+				19,
+				20
 			]
 		}
 	],
@@ -117,7 +121,11 @@
 				13,
 				14,
 				15,
-				16
+				16,
+				17,
+				18,
+				19,
+				20
 			]
 		}
 	],
@@ -223,6 +231,30 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/Strings/numstr.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/StringsClass/strtype1.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/StringsClass/strtype2.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/StringsClass/strtype3.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/StringsClass/strtype4.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

@@ -131,6 +131,18 @@
 		<Unit filename="/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/stringsInArray.cpp">
 			<Option target="Chapter2"/>
 		</Unit>
+		<Unit filename="/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StringsClass/strtype1.cpp">
+			<Option target="Chapter2"/>
+		</Unit>
+		<Unit filename="/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StringsClass/strtype2.cpp">
+			<Option target="Chapter2"/>
+		</Unit>
+		<Unit filename="/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StringsClass/strtype3.cpp">
+			<Option target="Chapter2"/>
+		</Unit>
+		<Unit filename="/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StringsClass/strtype4.cpp">
+			<Option target="Chapter2"/>
+		</Unit>
 		<Unit filename="/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter2/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
