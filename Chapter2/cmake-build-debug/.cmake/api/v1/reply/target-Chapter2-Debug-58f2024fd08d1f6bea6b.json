@@ -72,7 +72,10 @@
 				17,
 				18,
 				19,
-				20
+				20,
+				21,
+				22,
+				23
 			]
 		}
 	],
@@ -125,7 +128,10 @@
 				17,
 				18,
 				19,
-				20
+				20,
+				21,
+				22,
+				23
 			]
 		}
 	],
@@ -255,6 +261,24 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/StringsClass/strtype4.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/Structure/structur.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/Structure/assgn_st.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

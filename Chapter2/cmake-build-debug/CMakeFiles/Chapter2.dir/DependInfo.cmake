@@ -28,6 +28,9 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StringsClass/strtype2.cpp" "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StringsClass/strtype2.cpp.o" "gcc" "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StringsClass/strtype2.cpp.o.d"
   "/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StringsClass/strtype3.cpp" "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StringsClass/strtype3.cpp.o" "gcc" "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StringsClass/strtype3.cpp.o.d"
   "/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StringsClass/strtype4.cpp" "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StringsClass/strtype4.cpp.o" "gcc" "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StringsClass/strtype4.cpp.o.d"
+  "/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Structure/assgn_st.cpp" "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Structure/assgn_st.cpp.o" "gcc" "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Structure/assgn_st.cpp.o.d"
+  "/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Structure/structur.cpp" "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Structure/structur.cpp.o" "gcc" "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Structure/structur.cpp.o.d"
+  "/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp" "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp.o" "gcc" "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp.o.d"
   "/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter2/main.cpp" "CMakeFiles/Chapter2.dir/main.cpp.o" "gcc" "CMakeFiles/Chapter2.dir/main.cpp.o.d"
   )
 
