@@ -369,6 +369,78 @@ Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/超越整型限制
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/超越整型限制/exceed.cpp.s
 .PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/超越整型限制/exceed.cpp.s
 
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayone.o: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayone.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayone.o
+
+# target to build an object file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayone.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayone.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayone.cpp.o
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayone.i: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayone.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayone.i
+
+# target to preprocess a source file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayone.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayone.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayone.cpp.i
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayone.s: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayone.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayone.s
+
+# target to generate assembly for a file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayone.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayone.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayone.cpp.s
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.o: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.o
+
+# target to build an object file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.cpp.o
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.i: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.i
+
+# target to preprocess a source file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.cpp.i
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.s: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.s
+
+# target to generate assembly for a file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.cpp.s
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/stringsInArray.o: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/stringsInArray.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/stringsInArray.o
+
+# target to build an object file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/stringsInArray.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/stringsInArray.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/stringsInArray.cpp.o
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/stringsInArray.i: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/stringsInArray.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/stringsInArray.i
+
+# target to preprocess a source file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/stringsInArray.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/stringsInArray.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/stringsInArray.cpp.i
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/stringsInArray.s: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/stringsInArray.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/stringsInArray.s
+
+# target to generate assembly for a file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/stringsInArray.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/stringsInArray.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/stringsInArray.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -432,6 +504,15 @@ help:
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/超越整型限制/exceed.o"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/超越整型限制/exceed.i"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/超越整型限制/exceed.s"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayone.o"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayone.i"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayone.s"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.o"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.i"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/instr1.s"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/stringsInArray.o"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/stringsInArray.i"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Strings/stringsInArray.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
