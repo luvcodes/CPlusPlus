@@ -88,31 +88,25 @@
 		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter2/Function/ourfunc.cpp">
 			<Option target="Chapter2"/>
 		</Unit>
-		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter2/main.cpp">
-			<Option target="Chapter2"/>
-		</Unit>
-		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/ 整型字面值/hexoct.cpp">
-			<Option target="Chapter2"/>
-		</Unit>
-		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/ 整型字面值/hexoct2.cpp">
-			<Option target="Chapter2"/>
-		</Unit>
 		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/chartype.cpp">
 			<Option target="Chapter2"/>
 		</Unit>
 		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/morechar.cpp">
 			<Option target="Chapter2"/>
 		</Unit>
+		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp">
+			<Option target="Chapter2"/>
+		</Unit>
+		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp">
+			<Option target="Chapter2"/>
+		</Unit>
+		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp">
+			<Option target="Chapter2"/>
+		</Unit>
 		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp">
 			<Option target="Chapter2"/>
 		</Unit>
-		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/变量长度/limits.cpp">
-			<Option target="Chapter2"/>
-		</Unit>
-		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/类型转换/assign.cpp">
-			<Option target="Chapter2"/>
-		</Unit>
-		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/超越整型限制/exceed.cpp">
+		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp">
 			<Option target="Chapter2"/>
 		</Unit>
 		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.cpp">

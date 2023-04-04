@@ -176,53 +176,77 @@ C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/morechar.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/morechar.cpp.s
 .PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/morechar.cpp.s
 
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct.cpp.obj
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct.obj
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp.obj
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.obj
 
 # target to build an object file
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct.cpp.obj
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct.cpp.obj
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp.obj
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp.obj
 
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct.i: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct.cpp.i
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct.i
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.i: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp.i
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.i
 
 # target to preprocess a source file
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct.cpp.i
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct.cpp.i
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp.i
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp.i
 
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct.s: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct.cpp.s
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct.s
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.s: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp.s
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.s
 
 # target to generate assembly for a file
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct.cpp.s
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct.cpp.s
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp.s
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp.s
 
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct2.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct2.cpp.obj
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct2.obj
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp.obj
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.obj
 
 # target to build an object file
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct2.cpp.obj
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct2.cpp.obj
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp.obj
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp.obj
 
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct2.i: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct2.cpp.i
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct2.i
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.i: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp.i
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.i
 
 # target to preprocess a source file
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct2.cpp.i
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct2.cpp.i
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp.i
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp.i
 
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct2.s: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct2.cpp.s
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct2.s
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.s: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp.s
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.s
 
 # target to generate assembly for a file
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct2.cpp.s
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct2.cpp.s
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp.s
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp.s
+
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.obj
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.obj
+
+# target to build an object file
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.obj
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.obj
+
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.i: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.i
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.i
+
+# target to preprocess a source file
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.i
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.i
+
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.s: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.s
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.s
+
+# target to generate assembly for a file
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.s
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.s
 
 C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.obj
 .PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.obj
@@ -248,77 +272,29 @@ C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.s
 .PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.s
 
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/变量长度/limits.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/变量长度/limits.cpp.obj
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/变量长度/limits.obj
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp.obj
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.obj
 
 # target to build an object file
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/变量长度/limits.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/变量长度/limits.cpp.obj
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/变量长度/limits.cpp.obj
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp.obj
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp.obj
 
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/变量长度/limits.i: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/变量长度/limits.cpp.i
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/变量长度/limits.i
-
-# target to preprocess a source file
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/变量长度/limits.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/变量长度/limits.cpp.i
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/变量长度/limits.cpp.i
-
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/变量长度/limits.s: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/变量长度/limits.cpp.s
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/变量长度/limits.s
-
-# target to generate assembly for a file
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/变量长度/limits.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/变量长度/limits.cpp.s
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/变量长度/limits.cpp.s
-
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/类型转换/assign.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/类型转换/assign.cpp.obj
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/类型转换/assign.obj
-
-# target to build an object file
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/类型转换/assign.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/类型转换/assign.cpp.obj
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/类型转换/assign.cpp.obj
-
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/类型转换/assign.i: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/类型转换/assign.cpp.i
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/类型转换/assign.i
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.i: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp.i
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.i
 
 # target to preprocess a source file
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/类型转换/assign.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/类型转换/assign.cpp.i
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/类型转换/assign.cpp.i
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp.i
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp.i
 
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/类型转换/assign.s: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/类型转换/assign.cpp.s
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/类型转换/assign.s
-
-# target to generate assembly for a file
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/类型转换/assign.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/类型转换/assign.cpp.s
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/类型转换/assign.cpp.s
-
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/超越整型限制/exceed.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/超越整型限制/exceed.cpp.obj
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/超越整型限制/exceed.obj
-
-# target to build an object file
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/超越整型限制/exceed.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/超越整型限制/exceed.cpp.obj
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/超越整型限制/exceed.cpp.obj
-
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/超越整型限制/exceed.i: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/超越整型限制/exceed.cpp.i
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/超越整型限制/exceed.i
-
-# target to preprocess a source file
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/超越整型限制/exceed.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/超越整型限制/exceed.cpp.i
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/超越整型限制/exceed.cpp.i
-
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/超越整型限制/exceed.s: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/超越整型限制/exceed.cpp.s
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/超越整型限制/exceed.s
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.s: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp.s
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.s
 
 # target to generate assembly for a file
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/超越整型限制/exceed.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/超越整型限制/exceed.cpp.s
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/超越整型限制/exceed.cpp.s
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp.s
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp.s
 
 C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.cpp.obj
 .PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.obj
@@ -728,30 +704,6 @@ Function/ourfunc.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/Function/ourfunc.cpp.s
 .PHONY : Function/ourfunc.cpp.s
 
-main.obj: main.cpp.obj
-.PHONY : main.obj
-
-# target to build an object file
-main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/main.cpp.obj
-.PHONY : main.cpp.obj
-
-main.i: main.cpp.i
-.PHONY : main.i
-
-# target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/main.cpp.i
-.PHONY : main.cpp.i
-
-main.s: main.cpp.s
-.PHONY : main.s
-
-# target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/main.cpp.s
-.PHONY : main.cpp.s
-
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -767,24 +719,21 @@ help:
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/morechar.obj
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/morechar.i
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/morechar.s
-	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct.obj
-	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct.i
-	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct.s
-	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct2.obj
-	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct2.i
-	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/_整型字面值/hexoct2.s
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.obj
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.i
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.s
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.obj
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.i
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.s
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.obj
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.i
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.s
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.obj
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.i
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.s
-	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/变量长度/limits.obj
-	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/变量长度/limits.i
-	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/变量长度/limits.s
-	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/类型转换/assign.obj
-	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/类型转换/assign.i
-	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/类型转换/assign.s
-	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/超越整型限制/exceed.obj
-	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/超越整型限制/exceed.i
-	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/超越整型限制/exceed.s
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.obj
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.i
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.s
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.obj
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.i
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.s
@@ -836,9 +785,6 @@ help:
 	@echo ... Function/ourfunc.obj
 	@echo ... Function/ourfunc.i
 	@echo ... Function/ourfunc.s
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
 .PHONY : help
 
 

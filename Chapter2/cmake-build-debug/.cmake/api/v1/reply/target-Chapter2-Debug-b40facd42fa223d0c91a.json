@@ -75,9 +75,7 @@
 				20,
 				21,
 				22,
-				23,
-				24,
-				25
+				23
 			]
 		}
 	],
@@ -137,20 +135,12 @@
 				20,
 				21,
 				22,
-				23,
-				24,
-				25
+				23
 			]
 		}
 	],
 	"sources" : 
 	[
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "main.cpp",
-			"sourceGroupIndex" : 0
-		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
@@ -172,25 +162,19 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/\u53d8\u91cf\u957f\u5ea6/limits.cpp",
+			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/\u8d85\u8d8a\u6574\u578b\u9650\u5236/exceed.cpp",
+			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/ \u6574\u578b\u5b57\u9762\u503c/hexoct.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/ \u6574\u578b\u5b57\u9762\u503c/hexoct2.cpp",
+			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -208,7 +192,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/\u7c7b\u578b\u8f6c\u6362/assign.cpp",
+			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
