@@ -320,6 +320,30 @@ C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/arraynew.cp
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/arraynew.cpp.s
 .PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/arraynew.cpp.s
 
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.cpp.obj
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.obj
+
+# target to build an object file
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.cpp.obj
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.cpp.obj
+
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.i: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.cpp.i
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.i
+
+# target to preprocess a source file
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.cpp.i
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.cpp.i
+
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.s: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.cpp.s
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.s
+
+# target to generate assembly for a file
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.cpp.s
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.cpp.s
+
 C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.cpp.obj
 .PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.obj
 
@@ -785,6 +809,9 @@ help:
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/arraynew.obj
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/arraynew.i
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/arraynew.s
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.obj
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.i
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.s
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.obj
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.i
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.s

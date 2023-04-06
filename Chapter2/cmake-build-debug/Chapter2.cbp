@@ -112,6 +112,9 @@
 		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/arraynew.cpp">
 			<Option target="Chapter2"/>
 		</Unit>
+		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.cpp">
+			<Option target="Chapter2"/>
+		</Unit>
 		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.cpp">
 			<Option target="Chapter2"/>
 		</Unit>

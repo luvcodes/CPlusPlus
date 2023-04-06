@@ -1,4 +1,3 @@
-// Created by ryanw on 2023/3/31.
 #include <iostream>
 using namespace std;
 

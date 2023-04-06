@@ -77,7 +77,8 @@
 				22,
 				23,
 				24,
-				25
+				25,
+				26
 			]
 		}
 	],
@@ -139,7 +140,8 @@
 				22,
 				23,
 				24,
-				25
+				25,
+				26
 			]
 		}
 	],
@@ -299,6 +301,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/arraynew.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
