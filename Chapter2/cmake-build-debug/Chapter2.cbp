@@ -103,9 +103,6 @@
 		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp">
 			<Option target="Chapter2"/>
 		</Unit>
-		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp">
-			<Option target="Chapter2"/>
-		</Unit>
 		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp">
 			<Option target="Chapter2"/>
 		</Unit>
@@ -115,7 +112,13 @@
 		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.cpp">
 			<Option target="Chapter2"/>
 		</Unit>
+		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp">
+			<Option target="Chapter2"/>
+		</Unit>
 		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.cpp">
+			<Option target="Chapter2"/>
+		</Unit>
+		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp">
 			<Option target="Chapter2"/>
 		</Unit>
 		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr1.cpp">

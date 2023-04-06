@@ -96,24 +96,10 @@ CMakeFiles/Chapter2.dir/Function/convert.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter2.dir/Function/convert.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\Function\convert.cpp -o CMakeFiles\Chapter2.dir\Function\convert.cpp.s
 
-CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
-CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp
-CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\main.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\main.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\main.cpp
-
-CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\main.cpp > CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\main.cpp.i
-
-CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\main.cpp -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\main.cpp.s
-
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\exceedInteger\exceed.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\exceedInteger\exceed.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\exceedInteger\exceed.cpp
 
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp.i: cmake_force
@@ -127,7 +113,7 @@ CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedIn
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\integers\hexoct.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\integers\hexoct.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\integers\hexoct.cpp
 
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp.i: cmake_force
@@ -141,7 +127,7 @@ CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\integers\hexoct2.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\integers\hexoct2.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\integers\hexoct2.cpp
 
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.i: cmake_force
@@ -155,7 +141,7 @@ CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/chartype.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/chartype.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/chartype.cpp
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/chartype.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/chartype.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/chartype.cpp.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/chartype.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\CharType\chartype.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\CharType\chartype.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\CharType\chartype.cpp
 
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/chartype.cpp.i: cmake_force
@@ -169,7 +155,7 @@ CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/morechar.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/morechar.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/morechar.cpp
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/morechar.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/morechar.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/morechar.cpp.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/morechar.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\CharType\morechar.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\CharType\morechar.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\CharType\morechar.cpp
 
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/morechar.cpp.i: cmake_force
@@ -183,7 +169,7 @@ CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\typeConvert\assign.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\typeConvert\assign.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\typeConvert\assign.cpp
 
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp.i: cmake_force
@@ -197,7 +183,7 @@ CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConv
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.cpp
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.cpp.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Array\arrayone.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Array\arrayone.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Array\arrayone.cpp
 
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.cpp.i: cmake_force
@@ -211,7 +197,7 @@ CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/ar
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/stringsInArray.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/stringsInArray.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/stringsInArray.cpp
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/stringsInArray.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/stringsInArray.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/stringsInArray.cpp.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/stringsInArray.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Strings\stringsInArray.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Strings\stringsInArray.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Strings\stringsInArray.cpp
 
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/stringsInArray.cpp.i: cmake_force
@@ -225,7 +211,7 @@ CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr1.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr1.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr1.cpp
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr1.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr1.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr1.cpp.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr1.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Strings\instr1.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Strings\instr1.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Strings\instr1.cpp
 
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr1.cpp.i: cmake_force
@@ -239,7 +225,7 @@ CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr2.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr2.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr2.cpp
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr2.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr2.cpp.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr2.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Strings\instr2.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Strings\instr2.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Strings\instr2.cpp
 
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr2.cpp.i: cmake_force
@@ -253,7 +239,7 @@ CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr3.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr3.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr3.cpp
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr3.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr3.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr3.cpp.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr3.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Strings\instr3.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Strings\instr3.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Strings\instr3.cpp
 
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr3.cpp.i: cmake_force
@@ -267,7 +253,7 @@ CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/numstr.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/numstr.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/numstr.cpp
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/numstr.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/numstr.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/numstr.cpp.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/numstr.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Strings\numstr.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Strings\numstr.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Strings\numstr.cpp
 
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/numstr.cpp.i: cmake_force
@@ -281,7 +267,7 @@ CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype1.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype1.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype1.cpp
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype1.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype1.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype1.cpp.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype1.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\StringsClass\strtype1.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\StringsClass\strtype1.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\StringsClass\strtype1.cpp
 
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype1.cpp.i: cmake_force
@@ -295,7 +281,7 @@ CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsC
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype2.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype2.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype2.cpp
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype2.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype2.cpp.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype2.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\StringsClass\strtype2.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\StringsClass\strtype2.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\StringsClass\strtype2.cpp
 
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype2.cpp.i: cmake_force
@@ -309,7 +295,7 @@ CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsC
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype3.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype3.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype3.cpp
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype3.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype3.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype3.cpp.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype3.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\StringsClass\strtype3.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\StringsClass\strtype3.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\StringsClass\strtype3.cpp
 
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype3.cpp.i: cmake_force
@@ -323,7 +309,7 @@ CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsC
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype4.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype4.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype4.cpp
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype4.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype4.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype4.cpp.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype4.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\StringsClass\strtype4.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\StringsClass\strtype4.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\StringsClass\strtype4.cpp
 
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype4.cpp.i: cmake_force
@@ -337,7 +323,7 @@ CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsC
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Structure\structur.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Structure\structur.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Structure\structur.cpp
 
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.i: cmake_force
@@ -351,7 +337,7 @@ CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structur
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/assgn_st.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/assgn_st.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/assgn_st.cpp
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/assgn_st.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/assgn_st.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/assgn_st.cpp.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/assgn_st.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Structure\assgn_st.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Structure\assgn_st.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Structure\assgn_st.cpp
 
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/assgn_st.cpp.i: cmake_force
@@ -365,7 +351,7 @@ CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structur
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\StructureArray\arrstruc.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\StructureArray\arrstruc.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\StructureArray\arrstruc.cpp
 
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp.i: cmake_force
@@ -379,7 +365,7 @@ CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structur
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.cpp
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.cpp.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\address.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\address.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\address.cpp
 
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.cpp.i: cmake_force
@@ -393,7 +379,7 @@ CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.cpp
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.cpp.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\pointer.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\pointer.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\pointer.cpp
 
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.cpp.i: cmake_force
@@ -404,11 +390,38 @@ CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\pointer.cpp -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\pointer.cpp.s
 
+CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
+CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp
+CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\init_ptr.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\init_ptr.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\init_ptr.cpp
+
+CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\init_ptr.cpp > CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\init_ptr.cpp.i
+
+CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\init_ptr.cpp -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\init_ptr.cpp.s
+
+CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
+CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp
+CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\use_new.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\use_new.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\use_new.cpp
+
+CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\use_new.cpp > CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\use_new.cpp.i
+
+CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\use_new.cpp -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\use_new.cpp.s
+
 # Object files for target Chapter2
 Chapter2_OBJECTS = \
 "CMakeFiles/Chapter2.dir/Function/ourfunc.cpp.obj" \
 "CMakeFiles/Chapter2.dir/Function/convert.cpp.obj" \
-"CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.obj" \
 "CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp.obj" \
 "CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp.obj" \
 "CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.obj" \
@@ -429,14 +442,15 @@ Chapter2_OBJECTS = \
 "CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/assgn_st.cpp.obj" \
 "CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp.obj" \
 "CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.cpp.obj" \
-"CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.cpp.obj"
+"CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.cpp.obj" \
+"CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.obj" \
+"CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.obj"
 
 # External object files for target Chapter2
 Chapter2_EXTERNAL_OBJECTS =
 
 Chapter2.exe: CMakeFiles/Chapter2.dir/Function/ourfunc.cpp.obj
 Chapter2.exe: CMakeFiles/Chapter2.dir/Function/convert.cpp.obj
-Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.obj
 Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp.obj
 Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp.obj
 Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.obj
@@ -458,11 +472,13 @@ Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Cha
 Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp.obj
 Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.cpp.obj
 Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.cpp.obj
+Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.obj
+Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.obj
 Chapter2.exe: CMakeFiles/Chapter2.dir/build.make
 Chapter2.exe: CMakeFiles/Chapter2.dir/linkLibs.rsp
 Chapter2.exe: CMakeFiles/Chapter2.dir/objects1
 Chapter2.exe: CMakeFiles/Chapter2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Linking CXX executable Chapter2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Linking CXX executable Chapter2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Chapter2.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

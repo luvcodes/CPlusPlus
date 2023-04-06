@@ -248,30 +248,6 @@ C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.s
 .PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp.s
 
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.obj
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.obj
-
-# target to build an object file
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.obj
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.obj
-
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.i: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.i
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.i
-
-# target to preprocess a source file
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.i
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.i
-
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.s: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.s
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.s
-
-# target to generate assembly for a file
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.s
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.cpp.s
-
 C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp.obj
 .PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.obj
 
@@ -344,6 +320,30 @@ C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.cpp.s
 .PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.cpp.s
 
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.obj
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.obj
+
+# target to build an object file
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.obj
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.obj
+
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.i: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.i
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.i
+
+# target to preprocess a source file
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.i
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.i
+
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.s: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.s
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.s
+
+# target to generate assembly for a file
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.s
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.s
+
 C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.cpp.obj
 .PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.obj
 
@@ -367,6 +367,30 @@ C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.s: C_/Users/ryan
 C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.cpp.s
 .PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.cpp.s
+
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.obj
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.obj
+
+# target to build an object file
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.obj
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.obj
+
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.i: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.i
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.i
+
+# target to preprocess a source file
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.i
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.i
+
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.s: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.s
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.s
+
+# target to generate assembly for a file
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.s
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.s
 
 C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr1.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr1.cpp.obj
 .PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr1.obj
@@ -728,9 +752,6 @@ help:
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.obj
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.i
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.s
-	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.obj
-	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.i
-	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/main.s
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.obj
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.i
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.s
@@ -740,9 +761,15 @@ help:
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.obj
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.i
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.s
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.obj
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.i
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.s
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.obj
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.i
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.s
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.obj
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.i
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.s
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr1.obj
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr1.i
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr1.s

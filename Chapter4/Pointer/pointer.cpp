@@ -5,7 +5,6 @@ using namespace std;
 //{
 //    int updates = 6; // declare a variable
 //    int *p_updates; // declare pointer to an int
-//
 //    p_updates = &updates; // assign address of int to pointer
 //
 //    // express values two ways
