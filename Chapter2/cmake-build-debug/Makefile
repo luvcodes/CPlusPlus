@@ -296,6 +296,30 @@ C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.cpp.s
 .PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.cpp.s
 
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/DynamicArray.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/DynamicArray.cpp.obj
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/DynamicArray.obj
+
+# target to build an object file
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/DynamicArray.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/DynamicArray.cpp.obj
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/DynamicArray.cpp.obj
+
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/DynamicArray.i: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/DynamicArray.cpp.i
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/DynamicArray.i
+
+# target to preprocess a source file
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/DynamicArray.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/DynamicArray.cpp.i
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/DynamicArray.cpp.i
+
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/DynamicArray.s: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/DynamicArray.cpp.s
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/DynamicArray.s
+
+# target to generate assembly for a file
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/DynamicArray.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/DynamicArray.cpp.s
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/DynamicArray.cpp.s
+
 C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.cpp.obj
 .PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.obj
 
@@ -758,6 +782,9 @@ help:
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.obj
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.i
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.s
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/DynamicArray.obj
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/DynamicArray.i
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/DynamicArray.s
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.obj
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.i
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.s

@@ -13,6 +13,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp.obj.d"
   "CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.cpp.obj"
   "CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.cpp.obj.d"
+  "CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/DynamicArray.cpp.obj"
+  "CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/DynamicArray.cpp.obj.d"
   "CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.cpp.obj"
   "CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.cpp.obj.d"
   "CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.obj"
