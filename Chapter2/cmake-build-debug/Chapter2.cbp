@@ -94,6 +94,9 @@
 		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/morechar.cpp">
 			<Option target="Chapter2"/>
 		</Unit>
+		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/FloatType/floatnum.cpp">
+			<Option target="Chapter2"/>
+		</Unit>
 		<Unit filename="C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp">
 			<Option target="Chapter2"/>
 		</Unit>

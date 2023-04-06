@@ -446,6 +446,20 @@ CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\PointerArithmetric\addpntrs.cpp -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Pointer\PointerArithmetric\addpntrs.cpp.s
 
+CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/FloatType/floatnum.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
+CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/FloatType/floatnum.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/FloatType/floatnum.cpp
+CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/FloatType/floatnum.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/FloatType/floatnum.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/FloatType/floatnum.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\FloatType\floatnum.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\FloatType\floatnum.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\FloatType\floatnum.cpp
+
+CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/FloatType/floatnum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/FloatType/floatnum.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\FloatType\floatnum.cpp > CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\FloatType\floatnum.cpp.i
+
+CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/FloatType/floatnum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/FloatType/floatnum.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\FloatType\floatnum.cpp -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter3\FloatType\floatnum.cpp.s
+
 # Object files for target Chapter2
 Chapter2_OBJECTS = \
 "CMakeFiles/Chapter2.dir/Function/ourfunc.cpp.obj" \
@@ -474,7 +488,8 @@ Chapter2_OBJECTS = \
 "CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp.obj" \
 "CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.obj" \
 "CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/arraynew.cpp.obj" \
-"CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.cpp.obj"
+"CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.cpp.obj" \
+"CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/FloatType/floatnum.cpp.obj"
 
 # External object files for target Chapter2
 Chapter2_EXTERNAL_OBJECTS =
@@ -506,11 +521,12 @@ Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Cha
 Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp.obj
 Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/arraynew.cpp.obj
 Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.cpp.obj
+Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/FloatType/floatnum.cpp.obj
 Chapter2.exe: CMakeFiles/Chapter2.dir/build.make
 Chapter2.exe: CMakeFiles/Chapter2.dir/linkLibs.rsp
 Chapter2.exe: CMakeFiles/Chapter2.dir/objects1
 Chapter2.exe: CMakeFiles/Chapter2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Linking CXX executable Chapter2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Linking CXX executable Chapter2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Chapter2.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
