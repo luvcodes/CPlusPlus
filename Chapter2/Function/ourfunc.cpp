@@ -4,14 +4,14 @@ using namespace std;
 
 void simon(int); // function prototyupe
 
-//int main() {
-//    simon(3);
-//    int count;
-//    cin >> count;
-//    simon(count);
-//
-//    return 0;
-//}
+int main() {
+    simon(3);
+    int count;
+    cin >> count;
+    simon(count);
+
+    return 0;
+}
 
 void simon(int n)
 {
