@@ -728,29 +728,29 @@ C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/assgn_st.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/assgn_st.cpp.s
 .PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/assgn_st.cpp.s
 
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.obj
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.obj
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp.obj
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.obj
 
 # target to build an object file
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.obj
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.obj
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp.obj
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp.obj
 
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.i: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.i
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.i
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.i: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp.i
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.i
 
 # target to preprocess a source file
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.i
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.i
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp.i
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp.i
 
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.s: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.s
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.s
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.s: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp.s
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.s
 
 # target to generate assembly for a file
-C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.s
-.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.s
+C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter2.dir\build.make CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp.s
+.PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp.s
 
 C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StructureArray/arrstruc.obj: C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp.obj
 .PHONY : C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StructureArray/arrstruc.obj
@@ -908,9 +908,9 @@ help:
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/assgn_st.obj
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/assgn_st.i
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/assgn_st.s
-	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.obj
-	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.i
-	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.s
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.obj
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.i
+	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.s
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StructureArray/arrstruc.obj
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StructureArray/arrstruc.i
 	@echo ... C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StructureArray/arrstruc.s

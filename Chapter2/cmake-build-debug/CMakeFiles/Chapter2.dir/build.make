@@ -320,19 +320,19 @@ CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsC
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype4.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\StringsClass\strtype4.cpp -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\StringsClass\strtype4.cpp.s
 
-CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
-CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp
-CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Structure\structur.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Structure\structur.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Structure\structur.cpp
+CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
+CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp
+CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp.obj: CMakeFiles/Chapter2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp.obj -MF CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Structure\structure.cpp.obj.d -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Structure\structure.cpp.obj -c C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Structure\structure.cpp
 
-CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Structure\structur.cpp > CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Structure\structur.cpp.i
+CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Structure\structure.cpp > CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Structure\structure.cpp.i
 
-CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Structure\structur.cpp -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Structure\structur.cpp.s
+CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Structure\structure.cpp -o CMakeFiles\Chapter2.dir\C_\Users\ryanw\CLionProjects\CPlusPlus\Chapter4\Structure\structure.cpp.s
 
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/assgn_st.cpp.obj: CMakeFiles/Chapter2.dir/flags.make
 CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/assgn_st.cpp.obj: C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/assgn_st.cpp
@@ -494,7 +494,7 @@ Chapter2_OBJECTS = \
 "CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype2.cpp.obj" \
 "CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype3.cpp.obj" \
 "CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype4.cpp.obj" \
-"CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.obj" \
+"CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp.obj" \
 "CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/assgn_st.cpp.obj" \
 "CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp.obj" \
 "CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.cpp.obj" \
@@ -527,7 +527,7 @@ Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Cha
 Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype2.cpp.obj
 Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype3.cpp.obj
 Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype4.cpp.obj
-Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structur.cpp.obj
+Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp.obj
 Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/assgn_st.cpp.obj
 Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp.obj
 Chapter2.exe: CMakeFiles/Chapter2.dir/C_/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.cpp.obj
