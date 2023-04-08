@@ -31,7 +31,7 @@ This is more like a learning purpose repository usage, while noticed that the im
   - C++有三种浮点类型 **float, double, long double**
 
 #### Chapter 4 - 复合类型
-
+##### 数组、结构和指针是C++的3种复合类型
 - 4.1 数组
   - 将sizeof运算符用于数组名，得到的将是整个数组中的字节数。但如果将sizeof用于数组元素，则得到的将是元素的长度（单位为字节）
 - 4.6 枚举
@@ -46,5 +46,6 @@ This is more like a learning purpose repository usage, while noticed that the im
     - **动态数组**: 数组是在程序运行时创建的。使用静态联编时，必须在编写程序时指定数组的长度; 使用动态联编时，程序将在运行时确定数组的长度
       - 使用new来创建动态数组
       - 使用动态数组 访问元素
+  - 4.10.3 比较数组、vector对象和array对象
   
 #### 位运算符
