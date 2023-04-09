@@ -47,5 +47,7 @@ This is more like a learning purpose repository usage, while noticed that the im
       - 使用new来创建动态数组
       - 使用动态数组 访问元素
   - 4.10.3 比较数组、vector对象和array对象
+#### Chapter 5  - 循环和关系表达式
+- 5.1 For loops
   
 #### 位运算符
