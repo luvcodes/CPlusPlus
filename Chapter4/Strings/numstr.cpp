@@ -1,9 +1,9 @@
-#include <iostream>
-using namespace std;
+// #include <iostream>
+// using namespace std;
 
-//int main()
-//{
-//
+// int main()
+// {
+
 //    cout << "What year was your house built?\n";
 //    int year;
 //    cin >> year;
@@ -14,7 +14,7 @@ using namespace std;
 //    cout << "Year built: " << year << endl;
 //    cout << "Address: " << address << endl;
 //    cout << "Done!\n";
-//
-//
+
+
 //    return 0;
-//}
+// }

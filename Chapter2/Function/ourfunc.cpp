@@ -1,19 +1,18 @@
-// Created by ryanw on 2023/3/31.
-#include <iostream>
-using namespace std;
+// #include <iostream>
+// using namespace std;
 
-void simon(int); // function prototyupe
+// void simon(int); // function prototyupe
 
-int main() {
-    simon(3);
-    int count;
-    cin >> count;
-    simon(count);
+// int main() {
+//     simon(3);
+//     int count;
+//     cin >> count;
+//     simon(count);
 
-    return 0;
-}
+//     return 0;
+// }
 
-void simon(int n)
-{
-    cout << "Simon says touch your toes " << n << " times." << endl;
-}
+// void simon(int n)
+// {
+//     cout << "Simon says touch your toes " << n << " times." << endl;
+// }
