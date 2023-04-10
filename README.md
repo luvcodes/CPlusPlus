@@ -61,7 +61,6 @@ This is more like a learning purpose repository usage, while noticed that the im
 - 5.1 For循环
   - 5.1.3 修改步长: 设置变量放到for循环里面的步长部分
   - 5.1.5 `++`和`--`的前缀和后缀
-    - image.png
 - 5.2 while循环
 
 #### 位运算符
