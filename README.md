@@ -31,7 +31,9 @@ This is more like a learning purpose repository usage, while noticed that the im
   - C++有三种浮点类型 **float, double, long double**
 
 #### Chapter 4 - 复合类型
+
 ##### 数组、结构和指针是C++的3种复合类型
+
 - 4.1 数组
   - 将sizeof运算符用于数组名，得到的将是整个数组中的字节数。但如果将sizeof用于数组元素，则得到的将是元素的长度（单位为字节）
 - 4.6 枚举
@@ -47,7 +49,13 @@ This is more like a learning purpose repository usage, while noticed that the im
       - 使用new来创建动态数组
       - 使用动态数组 访问元素
   - 4.10.3 比较数组、vector对象和array对象
+
 #### Chapter 5  - 循环和关系表达式
+
 - 5.1 For loops
   - 5.1.3 修改步长: 设置变量放到for循环里面的步长部分
+  - 5.1.5 `++`和`--`的前缀和后缀
+    - image.png
+  - 
+
 #### 位运算符
