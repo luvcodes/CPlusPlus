@@ -52,10 +52,16 @@ This is more like a learning purpose repository usage, while noticed that the im
 
 #### Chapter 5  - 循环和关系表达式
 
-- 5.1 For loops
+##### 在设计循环时，请记住下面几条指导原则
+
+1. 指定循环终止的条件。
+2. 在首次测试之前初始化条件。
+3. 在条件被再次测试之前更新条件
+
+- 5.1 For循环
   - 5.1.3 修改步长: 设置变量放到for循环里面的步长部分
   - 5.1.5 `++`和`--`的前缀和后缀
     - image.png
-  - 
+- 5.2 while循环
 
 #### 位运算符
