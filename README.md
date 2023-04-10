@@ -49,5 +49,5 @@ This is more like a learning purpose repository usage, while noticed that the im
   - 4.10.3 比较数组、vector对象和array对象
 #### Chapter 5  - 循环和关系表达式
 - 5.1 For loops
-  
+  - 5.1.3 修改步长: 设置变量放到for循环里面的步长部分
 #### 位运算符
