@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int n;
+    cout << "Enter numbers in the range 1 to 10 to find ";
+    cout << "my favorite number\n";
+    do
+    {
+        cin >> n; // execute body
+    } while (n != 7); // then test
+    cout << "Yes, 7 is my favorite" << endl;
+
+    return 0;
+}
