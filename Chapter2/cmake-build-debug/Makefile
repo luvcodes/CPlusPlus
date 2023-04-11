@@ -825,6 +825,30 @@ Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StructureArray/arr
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp.s
 .PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp.s
 
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.o: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.o
+
+# target to build an object file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.o
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.i: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.i
+
+# target to preprocess a source file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.i
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.s: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.s
+
+# target to generate assembly for a file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.s
+
 Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.o: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp.o
 .PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.o
 
@@ -897,53 +921,53 @@ Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.cpp.s
 .PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.cpp.s
 
-Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.o: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.o
-.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.o
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.o: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.o
 
 # target to build an object file
-Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.o
-.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.o
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.o
 
-Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.i: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.i
-.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.i
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.i: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.i
 
 # target to preprocess a source file
-Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.i
-.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.i
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.i
 
-Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.s: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.s
-.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.s
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.s: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.s
 
 # target to generate assembly for a file
-Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.s
-.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.s
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.s
 
-Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.o: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.o
-.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.o
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.o: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.o
 
 # target to build an object file
-Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.o
-.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.o
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.o
 
-Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.i: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.i
-.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.i
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.i: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.i
 
 # target to preprocess a source file
-Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.i
-.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.i
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.i
 
-Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.s: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.s
-.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.s
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.s: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.s
 
 # target to generate assembly for a file
-Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.s
-.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.s
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.s
 
 # Help Target
 help:
@@ -1041,6 +1065,9 @@ help:
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StructureArray/arrstruc.o"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StructureArray/arrstruc.i"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StructureArray/arrstruc.s"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.o"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.i"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.s"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.o"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.i"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.s"
@@ -1050,12 +1077,12 @@ help:
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.o"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.i"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.s"
-	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.o"
-	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.i"
-	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.s"
-	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.o"
-	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.i"
-	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.s"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.o"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.i"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.s"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.o"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.i"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.s"
 .PHONY : help
 
 

@@ -475,33 +475,33 @@ CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Cha
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/variablesLength/limits.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/variablesLength/limits.cpp -o CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/variablesLength/limits.cpp.s
 
-CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.o: CMakeFiles/Chapter2.dir/flags.make
-CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.o: /Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp
-CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.o: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.o -MF CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.o.d -o CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.o -c /Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp
+CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.o: CMakeFiles/Chapter2.dir/flags.make
+CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.o: /Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp
+CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.o: CMakeFiles/Chapter2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.o -MF CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.o.d -o CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.o -c /Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp
 
-CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp > CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.i
+CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp > CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.i
 
-CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp -o CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.s
+CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp -o CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.s
 
-CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.o: CMakeFiles/Chapter2.dir/flags.make
-CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.o: /Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp
-CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.o: CMakeFiles/Chapter2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.o -MF CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.o.d -o CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.o -c /Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp
+CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.o: CMakeFiles/Chapter2.dir/flags.make
+CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.o: /Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp
+CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.o: CMakeFiles/Chapter2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.o -MF CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.o.d -o CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.o -c /Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp
 
-CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp > CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.i
+CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp > CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.i
 
-CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp -o CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.s
+CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp -o CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.s
 
 CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp.o: CMakeFiles/Chapter2.dir/flags.make
 CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp.o: /Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp
@@ -545,6 +545,20 @@ CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Cha
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.cpp -o CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.cpp.s
 
+CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.o: CMakeFiles/Chapter2.dir/flags.make
+CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.o: /Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp
+CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.o: CMakeFiles/Chapter2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.o -MF CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.o.d -o CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.o -c /Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp
+
+CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp > CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.i
+
+CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp -o CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.s
+
 # Object files for target Chapter2
 Chapter2_OBJECTS = \
 "CMakeFiles/Chapter2.dir/Function/ourfunc.cpp.o" \
@@ -576,11 +590,12 @@ Chapter2_OBJECTS = \
 "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.cpp.o" \
 "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/FloatType/floatnum.cpp.o" \
 "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/variablesLength/limits.cpp.o" \
-"CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.o" \
-"CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.o" \
+"CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.o" \
+"CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.o" \
 "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp.o" \
 "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.cpp.o" \
-"CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.cpp.o"
+"CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.cpp.o" \
+"CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.o"
 
 # External object files for target Chapter2
 Chapter2_EXTERNAL_OBJECTS =
@@ -614,14 +629,15 @@ Chapter2: CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPl
 Chapter2: CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.cpp.o
 Chapter2: CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/FloatType/floatnum.cpp.o
 Chapter2: CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/variablesLength/limits.cpp.o
-Chapter2: CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.o
-Chapter2: CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if2.cpp.o
+Chapter2: CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if1.cpp.o
+Chapter2: CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter6/IfStatements/if2.cpp.o
 Chapter2: CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp.o
 Chapter2: CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.cpp.o
 Chapter2: CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.cpp.o
+Chapter2: CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/VectorArray/choices.cpp.o
 Chapter2: CMakeFiles/Chapter2.dir/build.make
 Chapter2: CMakeFiles/Chapter2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Linking CXX executable Chapter2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Linking CXX executable Chapter2"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Chapter2.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
