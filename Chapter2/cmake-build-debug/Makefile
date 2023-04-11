@@ -849,6 +849,30 @@ Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narci
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp.s
 .PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp.s
 
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.o: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.o
+
+# target to build an object file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.cpp.o
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.i: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.i
+
+# target to preprocess a source file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.cpp.i
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.s: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.s
+
+# target to generate assembly for a file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.cpp.s
+
 Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.o: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.cpp.o
 .PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.o
 
@@ -1020,6 +1044,9 @@ help:
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.o"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.i"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.s"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.o"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.i"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/Multiply.s"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.o"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.i"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.s"
