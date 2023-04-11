@@ -1,33 +1,33 @@
-// #include <iostream>
-// using namespace std;
+ #include <iostream>
+ using namespace std;
 
-// int main()
-// {
-//     double wages[3] = {10000, 20000, 30000};
-//     short stacks[3] = {3,2,1};
+ int main()
+ {
+     double wages[3] = {10000, 20000, 30000};
+     short stacks[3] = {3,2,1};
 
-//     // Two ways to get the address of an array
-//     double * pw = wages; // name of an array = address
-//     short * ps = &stacks[0]; // or use address operator
+     // Two ways to get the address of an array
+     double * pw = wages; // name of an array = address
+     short * ps = &stacks[0]; // or use address operator
 
-//     // with array element
-//     cout << "pw = " << pw << ", *pw = " << *pw << endl;
-//     pw = pw +1;
-//     cout << "add 1 to the pw pointer:\n";
-//     cout << "pw = " << pw << ", *pw = " << *pw << "\n\n";
+     // with array element
+     cout << "pw = " << pw << ", *pw = " << *pw << endl;
+     pw = pw +1;
+     cout << "add 1 to the pw pointer:\n";
+     cout << "pw = " << pw << ", *pw = " << *pw << "\n\n";
 
-//     cout << "ps = " << ps << ", *ps = " << *ps << endl;
-//     ps = ps + 1;
-//     cout << "add 1 to the ps pointer:\n";
-//     cout << "ps = " << ps << ", *ps = " << *ps << "\n\n";
+     cout << "ps = " << ps << ", *ps = " << *ps << endl;
+     ps = ps + 1;
+     cout << "add 1 to the ps pointer:\n";
+     cout << "ps = " << ps << ", *ps = " << *ps << "\n\n";
 
-//     cout << "access two elements with array notation\n";
-//     cout <<"stacks[0] = " << stacks[0] << ", stacks[1] = " << stacks[1] << endl;
-//     cout << "access two elements with pointer notation\n";
-//     cout << "*stacks = " << *stacks << ", *(stacks + 1) = " << *(stacks + 1) << endl;
+     cout << "access two elements with array notation\n";
+     cout <<"stacks[0] = " << stacks[0] << ", stacks[1] = " << stacks[1] << endl;
+     cout << "access two elements with pointer notation\n";
+     cout << "*stacks = " << *stacks << ", *(stacks + 1) = " << *(stacks + 1) << endl;
 
-//     cout << sizeof(wages) << " = size of wages array\n";
-//     cout << sizeof(pw) << " = size of pw pointer\n";
+     cout << sizeof(wages) << " = size of wages array\n";
+     cout << sizeof(pw) << " = size of pw pointer\n";
 
-//     return 0;
-// }
+     return 0;
+ }
