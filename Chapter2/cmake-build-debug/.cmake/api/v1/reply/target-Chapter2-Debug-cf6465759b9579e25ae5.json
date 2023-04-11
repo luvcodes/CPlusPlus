@@ -83,7 +83,8 @@
 				28,
 				29,
 				30,
-				31
+				31,
+				32
 			]
 		}
 	],
@@ -147,7 +148,8 @@
 				28,
 				29,
 				30,
-				31
+				31,
+				32
 			]
 		}
 	],
@@ -343,6 +345,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter5/ForLoop/\u6572\u684c\u5b50.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

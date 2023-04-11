@@ -849,6 +849,30 @@ Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narci
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp.s
 .PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp.s
 
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.o: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.o
+
+# target to build an object file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.cpp.o
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.i: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.i
+
+# target to preprocess a source file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.cpp.i
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.s: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.s
+
+# target to generate assembly for a file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.cpp.s
+
 Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.o: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.o
 .PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.o
 
@@ -996,6 +1020,9 @@ help:
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.o"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.i"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.s"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.o"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.i"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/ForLoop/敲桌子.s"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.o"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.i"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.s"
