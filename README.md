@@ -62,5 +62,7 @@ This is more like a learning purpose repository usage, while noticed that the im
   - 5.1.3 修改步长: 设置变量放到for循环里面的步长部分
   - 5.1.5 `++`和`--`的前缀和后缀
 - 5.2 while循环
+- 5.5 循环和文本输入
+  - 5.5.1 使用原始的cin进行输入
 
 #### 位运算符
