@@ -167,6 +167,9 @@
 		<Unit filename="/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp">
 			<Option target="Chapter2"/>
 		</Unit>
+		<Unit filename="/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp">
+			<Option target="Chapter2"/>
+		</Unit>
 		<Unit filename="/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp">
 			<Option target="Chapter2"/>
 		</Unit>

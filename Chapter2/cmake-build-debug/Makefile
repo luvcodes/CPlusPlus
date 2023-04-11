@@ -825,6 +825,30 @@ Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StructureArray/arr
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp.s
 .PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp.s
 
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.o: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.o
+
+# target to build an object file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp.o
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.i: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.i
+
+# target to preprocess a source file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp.i
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.s: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.s
+
+# target to generate assembly for a file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.cpp.s
+
 Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.o: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.cpp.o
 .PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.o
 
@@ -969,6 +993,9 @@ help:
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StructureArray/arrstruc.o"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StructureArray/arrstruc.i"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/StructureArray/arrstruc.s"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.o"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.i"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter5/DoWhileLoops/Narcissistic_number.s"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.o"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.i"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/IfStatements/if1.s"
