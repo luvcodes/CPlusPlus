@@ -2,10 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Chapter2.exe"
-		},
-		{
-			"path" : "Chapter2.pdb"
+			"path" : "Chapter2"
 		}
 	],
 	"backtrace" : 1,
@@ -38,7 +35,10 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -fdiagnostics-color=always"
+					"fragment" : "-g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics"
+				},
+				{
+					"fragment" : "-std=gnu++17"
 				}
 			],
 			"language" : "CXX",
@@ -96,16 +96,12 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
-			},
-			{
-				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
-				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
 	"name" : "Chapter2",
-	"nameOnDisk" : "Chapter2.exe",
+	"nameOnDisk" : "Chapter2",
 	"paths" : 
 	{
 		"build" : ".",
@@ -166,163 +162,163 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/exceedInteger/exceed.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter3/exceedInteger/exceed.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter3/integers/hexoct.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/integers/hexoct2.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter3/integers/hexoct2.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/chartype.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter3/CharType/chartype.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/CharType/morechar.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter3/CharType/morechar.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/typeConvert/assign.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter3/typeConvert/assign.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Array/arrayone.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/Array/arrayone.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/stringsInArray.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/Strings/stringsInArray.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr1.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/Strings/instr1.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr2.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/Strings/instr2.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/instr3.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/Strings/instr3.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Strings/numstr.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/Strings/numstr.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype1.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/StringsClass/strtype1.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype2.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/StringsClass/strtype2.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype3.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/StringsClass/strtype3.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StringsClass/strtype4.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/StringsClass/strtype4.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/structure.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/Structure/structure.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Structure/assgn_st.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/Structure/assgn_st.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/StructureArray/arrstruc.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/address.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/Pointer/address.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/pointer.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/Pointer/pointer.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/init_ptr.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/Pointer/init_ptr.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/use_new.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/Pointer/use_new.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/DynamicArray/arraynew.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/Pointer/DynamicArray/arraynew.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter4/Pointer/PointerArithmetric/addpntrs.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/FloatType/floatnum.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter3/FloatType/floatnum.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/ryanw/CLionProjects/CPlusPlus/Chapter3/variablesLength/limits.cpp",
+			"path" : "/Users/yangrunze/Desktop/\u5404\u7c7b\u8bed\u8a00\u5b66\u4e60/CPlusPlus/Chapter3/variablesLength/limits.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
