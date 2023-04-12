@@ -110,7 +110,16 @@
 		<Unit filename="/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/variablesLength/limits.cpp">
 			<Option target="Chapter2"/>
 		</Unit>
+		<Unit filename="/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayName.cpp">
+			<Option target="Chapter2"/>
+		</Unit>
 		<Unit filename="/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayone.cpp">
+			<Option target="Chapter2"/>
+		</Unit>
+		<Unit filename="/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/practice1.cpp">
+			<Option target="Chapter2"/>
+		</Unit>
+		<Unit filename="/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/practice2.cpp">
 			<Option target="Chapter2"/>
 		</Unit>
 		<Unit filename="/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Pointer/DynamicArray/arraynew.cpp">
