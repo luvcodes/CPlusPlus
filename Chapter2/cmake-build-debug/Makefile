@@ -393,6 +393,78 @@ Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.c
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.cpp.s
 .PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.cpp.s
 
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/TwoDimension1.o: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/TwoDimension1.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/TwoDimension1.o
+
+# target to build an object file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/TwoDimension1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/TwoDimension1.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/TwoDimension1.cpp.o
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/TwoDimension1.i: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/TwoDimension1.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/TwoDimension1.i
+
+# target to preprocess a source file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/TwoDimension1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/TwoDimension1.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/TwoDimension1.cpp.i
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/TwoDimension1.s: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/TwoDimension1.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/TwoDimension1.s
+
+# target to generate assembly for a file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/TwoDimension1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/TwoDimension1.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/TwoDimension1.cpp.s
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/practice.o: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/practice.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/practice.o
+
+# target to build an object file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/practice.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/practice.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/practice.cpp.o
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/practice.i: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/practice.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/practice.i
+
+# target to preprocess a source file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/practice.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/practice.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/practice.cpp.i
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/practice.s: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/practice.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/practice.s
+
+# target to generate assembly for a file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/practice.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/practice.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/practice.cpp.s
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/二维数组名称用途.o: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/二维数组名称用途.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/二维数组名称用途.o
+
+# target to build an object file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/二维数组名称用途.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/二维数组名称用途.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/二维数组名称用途.cpp.o
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/二维数组名称用途.i: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/二维数组名称用途.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/二维数组名称用途.i
+
+# target to preprocess a source file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/二维数组名称用途.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/二维数组名称用途.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/二维数组名称用途.cpp.i
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/二维数组名称用途.s: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/二维数组名称用途.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/二维数组名称用途.s
+
+# target to generate assembly for a file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/二维数组名称用途.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/二维数组名称用途.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/二维数组名称用途.cpp.s
+
 Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayName.o: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayName.cpp.o
 .PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayName.o
 
@@ -1107,6 +1179,15 @@ help:
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.o"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.i"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.s"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/TwoDimension1.o"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/TwoDimension1.i"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/TwoDimension1.s"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/practice.o"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/practice.i"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/practice.s"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/二维数组名称用途.o"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/二维数组名称用途.i"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/TwoDimension/二维数组名称用途.s"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayName.o"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayName.i"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayName.s"
