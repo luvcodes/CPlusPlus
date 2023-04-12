@@ -369,6 +369,30 @@ Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/variablesLength/li
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/variablesLength/limits.cpp.s
 .PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/variablesLength/limits.cpp.s
 
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.o: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.o
+
+# target to build an object file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.cpp.o
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.cpp.o
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.i: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.i
+
+# target to preprocess a source file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.cpp.i
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.cpp.i
+
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.s: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.s
+
+# target to generate assembly for a file
+Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Chapter2.dir/build.make CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.cpp.s
+.PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.cpp.s
+
 Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayName.o: Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayName.cpp.o
 .PHONY : Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayName.o
 
@@ -1080,6 +1104,9 @@ help:
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/variablesLength/limits.o"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/variablesLength/limits.i"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/variablesLength/limits.s"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.o"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.i"
+	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.s"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayName.o"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayName.i"
 	@echo "... Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayName.s"

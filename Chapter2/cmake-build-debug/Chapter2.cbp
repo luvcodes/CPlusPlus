@@ -110,6 +110,9 @@
 		<Unit filename="/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/variablesLength/limits.cpp">
 			<Option target="Chapter2"/>
 		</Unit>
+		<Unit filename="/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.cpp">
+			<Option target="Chapter2"/>
+		</Unit>
 		<Unit filename="/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayName.cpp">
 			<Option target="Chapter2"/>
 		</Unit>

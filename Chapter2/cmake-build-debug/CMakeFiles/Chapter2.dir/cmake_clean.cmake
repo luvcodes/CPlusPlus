@@ -19,6 +19,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/typeConvert/assign.cpp.o.d"
   "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/variablesLength/limits.cpp.o"
   "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter3/variablesLength/limits.cpp.o.d"
+  "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.cpp.o"
+  "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/BubbleSort.cpp.o.d"
   "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayName.cpp.o"
   "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayName.cpp.o.d"
   "CMakeFiles/Chapter2.dir/Users/yangrunze/Desktop/各类语言学习/CPlusPlus/Chapter4/Array/arrayone.cpp.o"
