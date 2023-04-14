@@ -41,6 +41,10 @@ This is more like a learning purpose repository usage, while noticed that the im
     - 可以只显式地定义其中一些枚举量的值。`enum bigstep{first, second = 100, third}` first默认值是0，**后面没有被初始化的枚举量的值将比其前面的枚举量大1** third = 101
 - 4.7 指针
   - 在32位操作系统下，指针是占4个字节空间大小，不过是什么数据类型。在64位操作系统下，指针是占8个字节空间大小
+  - const修饰指针
+    - 常量指针 指针指向的地址可以修改，值不能修改
+    - 指针常量 指针的指向不可以修改，但是指针指向的值可以修改
+    - const既修饰指针，又修饰常量 指针的指向和指针指向的值都不可以改
   - 4.7.4 使用new来分配内存 **为一个数据对象获得并指定分配内存的通用格式**
   - 4.7.5 使用delete释放内存 **一定要配对地使用new和delete；否则将发生内存泄漏（memory leak）**
   - 4.7.6 使用new来创建**动态数组**
