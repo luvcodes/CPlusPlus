@@ -13,6 +13,12 @@
              {"Godzilla", 2000, 565.99}
      };
 
+     for (int i = 0; i < 2; i++) {
+        cout << " name: " << guests[i].name;
+        cout << " volume: " << guests[i].volume;
+        cout << " price: " << guests[i].price << endl;
+     }
+
      cout << "The guests " << guests[0].name << " and " << guests[1].name
           << "\nhave a combined volume of "
           << guests[0].volume + guests[1].volume << " cubic feet.\n";
