@@ -87,6 +87,7 @@ This is more like a learning purpose repository usage, while noticed that the im
 
 
 #### 引用
+**引用的本质在C++内部实现是一个指针常量**
 1. 引用必须初始化
 2. 引用初始化以后，不可以改变
 **通过引用参数产生的效果同按地址传递是一样的，引用的语法更清楚简单**
