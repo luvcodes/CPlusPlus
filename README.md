@@ -72,8 +72,8 @@ This is more like a learning purpose repository usage, while noticed that the im
 - 5.5 循环和文本输入
   - 5.5.1 使用原始的cin进行输入
 
-
 #### 内存四大区
+
 1. 堆、栈、全局/静态存储区和代码区
 2. 不在全局区中
    1. 局部变量
@@ -85,10 +85,12 @@ This is more like a learning purpose repository usage, while noticed that the im
       1. 字符串常量
       2. const修饰的全局变量(全局常量)
 
-
 #### 引用
+
 **引用的本质在C++内部实现是一个指针常量**
+
 1. 引用必须初始化
 2. 引用初始化以后，不可以改变
 **通过引用参数产生的效果同按地址传递是一样的，引用的语法更清楚简单**
+
 #### 位运算符
