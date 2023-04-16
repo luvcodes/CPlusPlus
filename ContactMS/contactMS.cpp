@@ -239,6 +239,16 @@ void modifyPerson(Addressbooks *abs)
     // system("cls");
 }
 
+// 6. 清空联系人
+void cleanPerson(Addressbooks * abs)
+{
+    abs->m_Size = 0; // 将当前记录联系人数量置为0，做逻辑清空操作
+    cout << "Clean contacts" << endl;
+
+    // system("pause");
+    // system("cls");
+}
+
 // 1. 显示菜单界面
 void showMenu()
 {
@@ -298,6 +308,7 @@ int main()
             modifyPerson(&abs);
             break;
         case 6: // 6. 清空联系人
+            cleanPerson(&abs);
             break;
         case 0: // 0. 退出通讯录
             cout << "欢迎下次使用" << endl;
