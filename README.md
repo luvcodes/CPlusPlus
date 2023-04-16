@@ -93,4 +93,9 @@ This is more like a learning purpose repository usage, while noticed that the im
 2. 引用初始化以后，不可以改变
 **通过引用参数产生的效果同按地址传递是一样的，引用的语法更清楚简单**
 
+#### Chapter10
+
+1. Encapsulation
+2. Differences between structure and class
+
 #### 位运算符
