@@ -89,5 +89,5 @@ This is more like a learning purpose repository usage, while noticed that the im
 #### 引用
 1. 引用必须初始化
 2. 引用初始化以后，不可以改变
-3. 
+**通过引用参数产生的效果同按地址传递是一样的，引用的语法更清楚简单**
 #### 位运算符
