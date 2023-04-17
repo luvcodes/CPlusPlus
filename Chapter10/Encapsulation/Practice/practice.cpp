@@ -64,9 +64,7 @@ using namespace std;
 // 判断点和圆关系
 void isInCircle(Circle& c, Point& p)
 {
-	int distance = (c.getCenter().getX() - p.getX()) * (c.getCenter().getX() - p.getX()) +
-		(c.getCenter().getY() - p.getY()) * (c.getCenter().getY() - p.getY());
-
+	int distance = (c.getCenter().getX() - p.getX()) * (c.getCenter().getX() - p.getX()) + (c.getCenter().getY() - p.getY()) * (c.getCenter().getY() - p.getY());
 	
 	int rDistance = c.getR() * c.getR();
 

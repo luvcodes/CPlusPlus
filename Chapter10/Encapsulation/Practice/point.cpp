@@ -1,6 +1,5 @@
 #include "point.h"
 
-
 void Point::setX(int x)
 {
 	m_X = x;
